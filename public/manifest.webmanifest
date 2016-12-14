@@ -1,0 +1,16 @@
+{
+  "name": "The Cat Hive",
+  "short_name": "Cat Hive",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "",
+  "description": "Home of the Cat Hive Developers",
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://www.cathive.com/"
+    }
+  ]
+}

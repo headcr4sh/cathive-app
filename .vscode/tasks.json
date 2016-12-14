@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "command": "firebase",
+    "isShellCommand": true,
+    "showOutput": "always",
+    "tasks": [
+      {
+        "taskName": "serve",
+        "isWatching": true
+      },
+      {
+        "taskName": "deploy"
+      }
+    ]
+}
